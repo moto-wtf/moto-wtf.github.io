@@ -35,16 +35,45 @@ a:visited {
   opacity: .9;
 }
 
-a:hover {
+/* a:hover {
   color: #00AAFF;
   text-transform: uppercase;
   text-decoration: none;
   opacity: .9;
-}
+} */
 
 a:active {
   color: black;
-  text-transform: uppercase;
   text-decoration: none;
   opacity: .9;
+}
+
+a:hover {
+  color: #ff0099;
+  text-decoration: none;
+  opacity: .9;
+}
+
+a#discord:hover {
+  color: #7289da;
+  text-decoration: none;
+  opacity: 1;
+}
+
+a#instagram:hover {
+  color: #E1306C;
+  text-decoration: none;
+  opacity: 1;
+}
+
+a#twitch:hover {
+  color: #6441a5;
+  text-decoration: none;
+  opacity: 1;
+}
+
+a#twitter:hover {
+  color: #1DA1F2;
+  text-decoration: none;
+  opacity: 1;
 }
