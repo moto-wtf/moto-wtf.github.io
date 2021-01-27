@@ -36,7 +36,7 @@ a:visited {
 }
 
 a:hover {
-  color: ff0055;
+  color: #00AAFF;
   text-transform: uppercase;
   text-decoration: none;
   opacity: .9;
