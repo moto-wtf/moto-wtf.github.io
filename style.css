@@ -42,7 +42,7 @@ a:active {
 }
 
 a:hover {
-  color: #000000;
+  color: #333333;
   text-decoration: none;
   opacity: 1;
 }
