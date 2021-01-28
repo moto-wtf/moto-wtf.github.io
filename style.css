@@ -4,7 +4,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-color: black;
-  font-family: "Futura", "Jost", "Helvetica", "Arial";
+  font-family: "Jost", "Helvetica", "Arial";
   font-size: 10vw;
   color: black;
 }
@@ -13,7 +13,7 @@ body {
   position: absolute;
   left: 50%;
   top: 50%;
-  width: 65%;
+  width: 70%;
   transform: translate(-50%, -50%);
   border-radius: 50px;
   padding: 20px;
@@ -45,29 +45,53 @@ a:active {
 a:hover {
   color: #555555;
   text-decoration: none;
+  opacity: 1;
+}
+
+a#discord {
+  color: #7289da;
+  text-decoration: none;
   opacity: .9;
 }
 
 a#discord:hover {
-  color: #7289da;
+  color: #555555;
   text-decoration: none;
   opacity: 1;
+}
+
+a#instagram {
+  color: #E1306C;
+  text-decoration: none;
+  opacity: .9;
 }
 
 a#instagram:hover {
-  color: #E1306C;
+  color: #555555;
   text-decoration: none;
   opacity: 1;
+}
+
+a#twitch {
+  color: #6441a5;
+  text-decoration: none;
+  opacity: .9;
 }
 
 a#twitch:hover {
-  color: #6441a5;
+  color: #555555;
   text-decoration: none;
   opacity: 1;
 }
 
-a#twitter:hover {
+a#twitter {
   color: #1DA1F2;
+  text-decoration: none;
+  opacity: .9;
+}
+
+a#twitter:hover {
+  color: #555555;
   text-decoration: none;
   opacity: 1;
 }
