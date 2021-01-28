@@ -4,8 +4,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-color: black;
-  font-family: "Futura", "Helvetica", "Arial";
-  src: url('FUTURAB.TTF');
+  font-family: "Futura", "Jost", "Helvetica", "Arial";
   font-size: 10vw;
   color: black;
 }
