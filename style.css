@@ -13,6 +13,7 @@ body {
   position: absolute;
   left: 50%;
   top: 50%;
+  width: 65%;
   transform: translate(-50%, -50%);
   border-radius: 50px;
   padding: 20px;
@@ -35,12 +36,16 @@ a:visited {
   opacity: .9;
 }
 
-/* a:hover {
+/*
+
+a:hover {
   color: #00AAFF;
   text-transform: uppercase;
   text-decoration: none;
   opacity: .9;
-} */
+}
+
+*/
 
 a:active {
   color: black;
