@@ -6,7 +6,6 @@ body {
   background-color: black;
   font-family: "Jost", "Helvetica", "Arial";
   font-size: 10vw;
-  color: black;
 }
 
 #content {
@@ -23,14 +22,14 @@ body {
 
 
 a:link {
-  color: black;
+  color: #333333;
   text-transform: uppercase;
   text-decoration: none;
   opacity: .9;
 }
 
 a:visited {
-  color: black;
+  color: 333333;
   text-transform: uppercase;
   text-decoration: none;
   opacity: .9;
@@ -43,7 +42,7 @@ a:active {
 }
 
 a:hover {
-  color: #555555;
+  color: #000000;
   text-decoration: none;
   opacity: 1;
 }
@@ -55,7 +54,7 @@ a#discord {
 }
 
 a#discord:hover {
-  color: #555555;
+  color: #333333;
   text-decoration: none;
   opacity: 1;
 }
@@ -67,7 +66,7 @@ a#instagram {
 }
 
 a#instagram:hover {
-  color: #555555;
+  color: #333333;
   text-decoration: none;
   opacity: 1;
 }
@@ -79,7 +78,7 @@ a#twitch {
 }
 
 a#twitch:hover {
-  color: #555555;
+  color: #333333;
   text-decoration: none;
   opacity: 1;
 }
@@ -91,7 +90,7 @@ a#twitter {
 }
 
 a#twitter:hover {
-  color: #555555;
+  color: #333333;
   text-decoration: none;
   opacity: 1;
 }
