@@ -5,6 +5,7 @@ body {
   background-repeat: no-repeat;
   background-color: black;
   font-family: "Futura", "Helvetica", "Arial";
+  src: url('FUTURAB.TTF');
   font-size: 10vw;
   color: black;
 }
@@ -36,17 +37,6 @@ a:visited {
   opacity: .9;
 }
 
-/*
-
-a:hover {
-  color: #00AAFF;
-  text-transform: uppercase;
-  text-decoration: none;
-  opacity: .9;
-}
-
-*/
-
 a:active {
   color: black;
   text-decoration: none;
@@ -54,7 +44,7 @@ a:active {
 }
 
 a:hover {
-  color: #ff0099;
+  color: #555555;
   text-decoration: none;
   opacity: .9;
 }
